@@ -1,1 +1,6 @@
-Zyle Pogi masyado
+Zyle Profile:
+
+Age: 30
+Kls: 90
+
+
