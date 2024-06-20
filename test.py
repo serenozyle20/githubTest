@@ -2,7 +2,7 @@ Zyle Profile:
 
 Age: 30
 Kls: 90
-Height: 5'7
+Height: 5'6
 Color: Brown
 Gender: Male
 Race: Filipino
